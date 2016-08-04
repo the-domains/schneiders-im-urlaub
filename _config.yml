@@ -11,6 +11,9 @@ color:
     - '#3A6EA5'
     - '#004E98'
 layout_spectrum: 0.2886007125489414
+author:
+  name: Andreas Schneider
+  email: andisch@gmail.com
 name: Schneiders im Urlaub
 title: Schneider's im Urlaub
 description: Unser Reisetagebuch
